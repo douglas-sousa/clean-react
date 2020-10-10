@@ -54,7 +54,7 @@ const populatePasswordField = (sut: RenderResult, password = faker.internet.pass
 const testStatusForField = (sut: RenderResult, fieldName: string, validationError?: string): void => {
   const emailStatus = sut.getByTestId(`${fieldName}-status`)
   expect(emailStatus.title).toBe(validationError || 'Tudo certo!')
-  expect(emailStatus.textContent).toBe(validationError ? '🔴' : '🟢')
+  expect(emailStatus.textContent).toBe(validationError ? '🔴' : '🔵')
 }
 
 const testErrorWrapChildCount = (sut: RenderResult, count: number): void => {
