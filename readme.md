@@ -2,6 +2,7 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 [![Build Status](https://travis-ci.org/douglas-sousa/clean-react.svg?branch=master)](https://travis-ci.org/douglas-sousa/clean-react)
+[![Coverage Status](https://coveralls.io/repos/github/douglas-sousa/clean-react/badge.svg?branch=master)](https://coveralls.io/github/douglas-sousa/clean-react?branch=master)
 
 # **4Dev React - Enquetes para Programadores**
 
